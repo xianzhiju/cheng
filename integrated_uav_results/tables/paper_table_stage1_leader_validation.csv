@@ -1,0 +1,17 @@
+scenario,strategy,collision_risk,navigation_success,formation_error,robustness_score
+corridor,communication,0.687,0.641,0.616,0.307
+corridor,perception,0.497,0.798,0.672,0.522
+corridor,static,0.715,0.582,0.667,0.231
+corridor,task,0.747,0.592,0.672,0.228
+dense,communication,0.741,0.579,0.579,0.232
+dense,perception,0.541,0.749,0.627,0.464
+dense,static,0.774,0.507,0.628,0.141
+dense,task,0.784,0.563,0.627,0.193
+medium,communication,0.501,0.778,0.395,0.542
+medium,perception,0.357,0.876,0.428,0.686
+medium,static,0.521,0.738,0.431,0.491
+medium,task,0.536,0.761,0.432,0.507
+sparse,communication,0.236,0.919,0.224,0.802
+sparse,perception,0.176,0.944,0.239,0.846
+sparse,static,0.255,0.901,0.247,0.775
+sparse,task,0.266,0.907,0.246,0.776

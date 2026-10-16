@@ -1,0 +1,9 @@
+{
+  "leader_strategy": "perception",
+  "wp": 0.62,
+  "wc": 0.23,
+  "wg": 0.15,
+  "delta": 0.1,
+  "selected_from": "Stage 1 leader baseline, parameter sensitivity, and switching-threshold analysis",
+  "used_for": "Stage 2 follower formation response ablation"
+}

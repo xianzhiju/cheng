@@ -1,0 +1,7 @@
+scenario,follower_mode,formation_error,distance_violation_rate,collision_risk,navigation_success,robustness_score
+corridor,adaptive_response,0.414,0.036,0.825,0.051,-0.235
+corridor,leader_only,0.476,0.148,0.82,0.033,-0.277
+corridor,naive_smoothing,0.824,0.604,0.742,0.0,-0.407
+dense,adaptive_response,0.437,0.022,0.545,0.696,0.478
+dense,leader_only,0.542,0.084,0.551,0.679,0.433
+dense,naive_smoothing,1.116,0.56,0.479,0.404,0.015

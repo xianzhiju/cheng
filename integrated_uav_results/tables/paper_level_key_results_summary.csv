@@ -1,0 +1,5 @@
+stage,scenario,main_comparison,collision_risk_change,navigation_success_gain,robustness_gain,interpretation,formation_error_change,distance_violation_change
+leader_reassignment,dense,perception vs best baseline,-0.2,0.17,0.232,Perception-aware reassignment improves complex-environment robustness,,
+leader_reassignment,corridor,perception vs best baseline,-0.191,0.157,0.215,Perception-aware reassignment improves complex-environment robustness,,
+follower_response,dense,adaptive response vs leader-only,,0.017,0.045,Adaptive follower response preserves formation after leader switching,-0.105,-0.062
+follower_response,corridor,adaptive response vs leader-only,,0.019,0.042,Adaptive follower response preserves formation after leader switching,-0.063,-0.112
