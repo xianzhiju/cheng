@@ -81,3 +81,13 @@ Open **`integrated_multi_uav_leader_follower_validation.ipynb`** and run cells t
 ## Publication and reuse
 
 This repository contains code and research results from an MSc project. **No open-source license has been assigned**; contact the author before reusing or redistributing the code. A manuscript was omitted from this code package pending the author's decision about public release.
+
+## Additional CV & Robotics Projects
+
+Separate, cleaned coursework projects are available under [`cv-projects/`](cv-projects/README.md):
+
+- [Biomedical Cell Instance Segmentation (Mask R-CNN)](cv-projects/biomedical-cell-instance-segmentation/)
+- [Monocular Visual Odometry (ORB / SIFT / RANSAC)](cv-projects/monocular-visual-odometry/)
+- [Robot Localization and Drive-to-Goal Control](cv-projects/robot-localization-and-control/)
+
+These are teaching and simulation projects; university-provided datasets, heavyweight model checkpoints, submitted PDF reports, and demonstration videos are not redistributed.
